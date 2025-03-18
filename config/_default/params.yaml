@@ -14,8 +14,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Motorbike stuff for beginners in Greek!'
+    # twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     google_tag_manager: ''
@@ -39,10 +39,10 @@ header:
       text: ""
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/details/docs/"
+    # button:
+    #   enable: true
+    #   text: "Get Started"
+    #   url: "https://hugoblox.com/templates/details/docs/"
     show_search: true
     show_theme_chooser: true
 
