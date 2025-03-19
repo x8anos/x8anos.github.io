@@ -1,6 +1,6 @@
 ---
-title: Nvidia
-summary: nvidia.com
-external_link: https://research.nvidia.com/labs/toronto-ai/
-date: 2024-02-17
+title: Αλυσίδα
+summary: Γρασάρισμα
+# external_link: https://research.nvidia.com/labs/toronto-ai/
+date: 2025-03-20
 ---
