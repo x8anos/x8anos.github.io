@@ -1,28 +1,43 @@
 ---
-title: Getting Started
-date: 2024-02-17
+title: Ξεκινάμε!
+date: 2025-03-18
 weight: 1
 ---
 
-## Quick Start from Template
+## Αυτό είναι το πρώτο πλάνο
 
 {{% steps %}}
 
-### Initialize a new site
+### Εξοπλισμός
+- Ντύσιμο αναβάτη
+  - Κράνος
+  - Μπότες
+  - Μπουφάν
+  - Παντελόνι
+  - Γάντια 
+  - Κι ότι άλλο...
+- Εξοπλισμός μηχανής
+  - Μπάρες
+  - Προβολάκια
+  - Κι ότι άλλο
 
-[Click to copy the template on GitHub](https://github.com/new?template_name=theme-documentation&template_owner=HugoBlox)
+### Μάθε την μηχανή σου 
 
-### Configure your new site
+- Στο πρώτο μάθημα οδήγησης σου μαθαίνουν τη πρέπει να κοιτάς πριν βάλεις μπρος
+  - Διαρροές
+  - Λάστιχα
+  - Φώτα
+  - Αναρτήσεις
 
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+### Ξεκίνα μικρές βόλτες
 
-### Add your content
+- Σε ώρες που δεν υπάρχει κίνηση
+- Σε δρόμους που ξέρεις 
+- Ταξίδεψε έτσι 500-1000 χιλ. πριν ξεθαρέψεις
 
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
+### Και βλέπουμε 
 
-### Publish your site
 
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
 
 {{% /steps %}}
 
