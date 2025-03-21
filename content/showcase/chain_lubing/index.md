@@ -1,5 +1,5 @@
 ---
-title: Αλυσίδα
+title: ΑΛΥΣΙΔΑ
 summary: Γρασάρισμα
 # external_link: https://research.nvidia.com/labs/toronto-ai/
 date: 2025-03-20
@@ -27,6 +27,6 @@ date: 2025-03-20
     
 Μερικοί σύνδεσμοι από βίντεο που παρακολούθησα παρακάτω. 
 
-[Λίπανση Αλυσίδας από την Liqui Moly](https://www.youtube.com/watch?v=rZz1DHb4Gms)
-[Motul - MC Care range - Chain Lube](https://www.youtube.com/watch?v=D5pmcqNju1k)
-[How to clean and lube a motorcycle chain](https://www.youtube.com/watch?v=iqjyE4h6Xds)
+- [Λίπανση Αλυσίδας από την Liqui Moly](https://www.youtube.com/watch?v=rZz1DHb4Gms)
+- [Motul - MC Care range - Chain Lube](https://www.youtube.com/watch?v=D5pmcqNju1k)
+- [How to clean and lube a motorcycle chain](https://www.youtube.com/watch?v=iqjyE4h6Xds)

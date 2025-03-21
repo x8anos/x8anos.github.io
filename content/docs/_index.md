@@ -1,6 +1,6 @@
 ---
 linkTitle: Documentation
-title: Introduction
+title: ΕΙΣΑΓΩΓΗ
 ---
 
 👋 Καλωσήλθατε στο ΜηχανοΛόγιο!
@@ -9,8 +9,8 @@ title: Introduction
 
 Μετά από 30 χρόνια scooter πήρα μια Vstrom και καταγράφω την εμπειρία μου, σε μια προσπάθεια να μάθω.
 
-## Next
+## Συνέχεια
 
 {{< cards >}}
-  {{< card url="getting-started" title="Ξεκινάμε!" icon="document-text" subtitle="Κάνε καφέ να σ!" >}}
+  {{< card url="getting-started" title="Ξεκινάμε!" icon="document-text" subtitle="Πάμε για τα βασικά" >}}
 {{< /cards >}}
