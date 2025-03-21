@@ -41,11 +41,11 @@ weight: 1
 
 {{% /steps %}}
 
-## Next
+## Συνέχισε
 
-Let's customize your new site:
+Πάμε με τα βασικά:
 
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
+  {{< card url="../guide/πρώτα_χιλιόμετρα" title="Τα πρώτα χιλιόμετρα" icon="document-duplicate" >}}
+  {{< card url="../guide/σημεία_προσοχής" title="Πρέπει να προσέξεις" icon="adjustments-vertical" >}}
 {{< /cards >}}

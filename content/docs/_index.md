@@ -3,14 +3,14 @@ linkTitle: Documentation
 title: Introduction
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+👋 Καλωσήλθατε στο ΜηχανοΛόγιο!
 
 <!--more-->
 
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+Μετά από 30 χρόνια scooter πήρα μια Vstrom και καταγράφω την εμπειρία μου, σε μια προσπάθεια να μάθω.
 
 ## Next
 
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
+  {{< card url="getting-started" title="Ξεκινάμε!" icon="document-text" subtitle="Κάνε καφέ να σ!" >}}
 {{< /cards >}}
