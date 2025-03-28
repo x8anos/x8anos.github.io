@@ -46,6 +46,6 @@ weight: 1
 Πάμε με τα βασικά:
 
 {{< cards >}}
-  {{< card url="../basic/πρώτα_χιλιόμετρα" title="Τα πρώτα χιλιόμετρα" icon="document-duplicate" >}}
-  {{< card url="../basic/σημεία_προσοχής" title="Πρέπει να προσέξεις" icon="adjustments-vertical" >}}
+  {{< card url="../basic/first_steps" title="Τα πρώτα χιλιόμετρα" icon="document-duplicate" >}}
+  {{< card url="../basic/watch_for_this" title="Πρέπει να προσέξεις" icon="adjustments-vertical" >}}
 {{< /cards >}}
