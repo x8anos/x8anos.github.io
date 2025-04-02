@@ -3,52 +3,31 @@ title: ΤΑ ΠΡΩΤΑ ΧΙΛΙΟΜΕΤΡΑ
 weight: 1
 ---
 
-The configuration of your site can be found in `config/_default/`.
+Εδώ θα κρατήσω τα βίντεο που με βοήθησαν στα πρώτα μου χιλιόμετρα!
 
 <!--more-->
 
-## Full Documentation
 
-See https://docs.hugoblox.com/getting-started/customize/
 
-## Navigation
 
-### Menu
+## Shorts
 
-See https://docs.hugoblox.com/getting-started/customize/#menu-items
+- [5 συμβουλές για νέους αναβάτες](https://www.youtube.com/shorts/XUKfN8UzdF0)
+- [Γρήγορο μάθημα για το συμπλέκτη](https://www.youtube.com/shorts/qcphDOEaFCU)
+- [Πως να αποφύγεις να ρίξεις τη μηχανή σου](https://www.youtube.com/shorts/HPAHyCiBKBk)
 
-## Left Sidebar
 
-Links are automatically generated from the structure of your content directory. Simply add a folder to nest a page.
 
-### Extra Links
+### Extra σύνδεσμοι
 
-Additional links can be added under the `sidebar` section of your `config/_default/menus.yaml`:
+Α! Μέχρι να πάρω βαλίτσα, με βόλεψε αυτό η τσάντα πλάτης που μπορείς να την τοποθετήσεις στην ουρά της μηχανής.
 
-```yaml
-menu:
-  sidebar:
-    - name: "Need help?"
-      params:
-        type: separator
-      weight: 1
-    - name: "A page"
-      pageRef: "/page-filename-here"
-      weight: 2
-    - name: "An external link ↗"
-      url: "https://hugoblox.com"
-      weight: 3
-```
+Την αγόρασα κάτω από 40€ από το temu. [Cheap Motorcycle Tail Bag Review](https://www.youtube.com/watch?v=gpLTusWHFLI&t)
 
-## Right Sidebar
 
-A table of contents is automatically generated from the headings your Markdown file.
-
-It can optionally be disabled by setting `toc: false` in the front matter of a page:
 
 ```yaml
 ---
-title: My Page
-toc: false
+σδφσδφ
 ---
 ```
