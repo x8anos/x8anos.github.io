@@ -11,12 +11,9 @@ main:
   - name: Η μηχανή
     url: showcase/
     weight: 30
-  - name: Service
-    url: service/
-    weight: 40
   - name: Blog
     url: blog/
-    weight: 50
+    weight: 40
 
 
 # sidebar:

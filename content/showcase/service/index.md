@@ -1,24 +1,11 @@
 ---
 title: SERVICE
-description: "Για να τα 'χω κάπου οργανωμένα. Τι έκανα και τι δεν έκανα..."
-type: landing
-
-
-
-sections:
-  - block: hero
-    content:
-      title: Σχετικά με τα service και τα ανταλλακτικά της μηχανής
-      text: 'Μάθε και για τα ανταλλακτικά, αχρείαστα δεν θα είναι.'
-    design:
-      no_padding: true
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-
+summary:  "Για να τα 'χω κάπου οργανωμένα. Τι έκανα και τι δεν έκανα..."
+# external_link: https://research.nvidia.com/labs/toronto-ai/
+date: 2025-03-18
 ---
 
-{{% steps %}}
+
 
 ### Αγορά
 ```yaml
@@ -53,5 +40,3 @@ sections:
 1η Απριλίου 2025 - Χιλιόμετρα 96.814
 ---
 ```
-
-{{% /steps %}}
