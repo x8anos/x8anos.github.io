@@ -8,7 +8,9 @@ weight: 1
 <!--more-->
 
 
-
+## Αγαπημένα κανάλια
+- [FortNine](https://www.youtube.com/@FortNine)
+- [MotoJitsu®](https://www.youtube.com/@MotoJitsu)
 
 ## Shorts
 
@@ -16,7 +18,9 @@ weight: 1
 - [Γρήγορο μάθημα για το συμπλέκτη](https://www.youtube.com/shorts/qcphDOEaFCU)
 - [Πως να αποφύγεις να ρίξεις τη μηχανή σου](https://www.youtube.com/shorts/HPAHyCiBKBk)
 
+## Full videos
 
+- [5 EASY MOTORCYCLE RIDING TIPS ](https://www.youtube.com/watch?v=4isXF63hns0)
 
 ### Extra σύνδεσμοι
 
