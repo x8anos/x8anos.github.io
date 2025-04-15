@@ -20,6 +20,7 @@ weight: 1
 
 ## Full videos
 
+- [Best Beginner Motorcycle Gear – What Do You Really Need?](https://www.youtube.com/watch?v=rmWQKoN6yX0)
 - [5 EASY MOTORCYCLE RIDING TIPS ](https://www.youtube.com/watch?v=4isXF63hns0)
 
 ### Extra σύνδεσμοι
@@ -29,9 +30,3 @@ weight: 1
 Την αγόρασα κάτω από 40€ από το temu. [Cheap Motorcycle Tail Bag Review](https://www.youtube.com/watch?v=gpLTusWHFLI&t)
 
 
-
-```yaml
----
-σδφσδφ
----
-```
