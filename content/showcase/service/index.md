@@ -3,7 +3,7 @@ title: SERVICE
 summary:  "Για να τα 'χω κάπου οργανωμένα. Τι έκανα και τι δεν έκανα..."
 # external_link: https://research.nvidia.com/labs/toronto-ai/
 date: 2025-03-18
-updated: 2025-04-17
+lastmod: 2025-04-17
 ---
 
 
