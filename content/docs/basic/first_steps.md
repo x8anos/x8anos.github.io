@@ -30,3 +30,4 @@ weight: 1
 Την αγόρασα κάτω από 40€ από το temu. [Cheap Motorcycle Tail Bag Review](https://www.youtube.com/watch?v=gpLTusWHFLI&t)
 
 
+![Tailbag Motocentric](tailbag.jpg "caption")
