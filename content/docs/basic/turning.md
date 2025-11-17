@@ -17,4 +17,4 @@ weight: 3
 
 ### Extra σύνδεσμοι
 
--[The Weirdest U-Turn Trick No One Ever Taught You](https://youtu.be/i7MwvO-peZo?si=RHdONoNoxLRuLqQB)
+- [The Weirdest U-Turn Trick No One Ever Taught You](https://youtu.be/i7MwvO-peZo?si=RHdONoNoxLRuLqQB)
